@@ -13,7 +13,7 @@ export default function Sidebar() {
     <div className="col-span-1 row-span-5 hidden flex-col border border-r-[1px] p-10 md:flex md:justify-between">
       <div>
         <div className="relative mb-14 text-center">
-          <h1 className="text-4xl font-bold">
+          <h1 className="text-5xl font-bold">
             <span className="">Irri</span>Lights
           </h1>
           <h1 className="absolute bottom-[-0.8rem] right-4 font-bold text-primary">
